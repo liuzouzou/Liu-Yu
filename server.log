@@ -1,0 +1,2 @@
+站点已启动: http://localhost:3000
+AI 对话接口: POST /api/chat
